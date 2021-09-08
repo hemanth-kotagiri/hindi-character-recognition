@@ -1,4 +1,4 @@
-### India Academia Connect AI Hackathon
+### [India Academia Connect AI Hackathon](https://gpuhackathons.org/index.php/event/india-academia-connect-ai-hackathon)
 
 The [dataset](https://drive.google.com/drive/folders/1O8TT0s4zMyiI6zR-biVRoiLiAUy-W1H0) contains the following:
 
