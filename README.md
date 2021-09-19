@@ -12,6 +12,8 @@ The test dataset will contain the images to be classified and results to be subm
 
 ---
 
+[MIT License](LICENSE)
+
 Copyright 2021 Team Phoenix
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
